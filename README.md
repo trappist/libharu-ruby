@@ -1,4 +1,4 @@
 libharu_ruby
 ============
 
-Ruby bindings for libharu
+Gemified ruby bindings for [libharu](https://github.com/libharu/libharu)
